@@ -1,0 +1,21 @@
+No operators in the equation, invalid: j;;';"~~~
+
+
+File line for the above attempted transformation: 0
+
+No operators in the equation, invalid: =Xxdd
+
+
+File line for the above attempted transformation: 1
+
+Invalid prefix expression:  +l"G
+
+
+File line for the above attempted transformation: 2
+
+No operands in the equation, invalid: --
+
+File line for the above attempted transformation: 3
+
+Time it took to execute: 0.026032447814941406
+

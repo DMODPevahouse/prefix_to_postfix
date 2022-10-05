@@ -1,0 +1,70 @@
+The prefix expression is: -+123
+
+The postfix expression is: 12+3-
+The answer is: 0
+
+File line for the above attempted transformation: 0
+
+The prefix expression is: -1+23
+
+The postfix expression is: 123+-
+The answer is: -4
+
+File line for the above attempted transformation: 1
+
+The prefix expression is: $+-123+4-56
+
+The postfix expression is: 12-3+456-+$
+The answer is: 1
+
+File line for the above attempted transformation: 2
+
+The prefix expression is: -*1$2+3-45*56
+
+The postfix expression is: 12345-+$*56*-
+The answer is: -30
+
+File line for the above attempted transformation: 3
+
+The prefix expression is: **1+23+3-21
+
+The postfix expression is: 123+*321-+*
+The answer is: 20
+
+File line for the above attempted transformation: 4
+
+Invalid, please only have one prefix per line:  Invalid prefix expression:  /1+23 +3*21
+
+
+File line for the above attempted transformation: 5
+
+Invalid prefix expression:  *-*-123+21
+
+
+File line for the above attempted transformation: 6
+
+Invalid prefix expression:  /+/1-23-21
+
+
+File line for the above attempted transformation: 7
+
+The prefix expression is: *$1+23+3-21
+
+The postfix expression is: 123+$321-+*
+The answer is: 16
+
+File line for the above attempted transformation: 8
+
+The prefix expression is: //1+20-3+21
+
+The postfix expression is: 120+/321+-/
+The answer is: Invalid, cannot divide, or divide by, 0
+
+File line for the above attempted transformation: 9
+
+Invalid prefix expression:  *$1^23+3-21
+
+File line for the above attempted transformation: 10
+
+Time it took to exectute: 0.031264543533325195
+
