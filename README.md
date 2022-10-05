@@ -1,11 +1,7 @@
 # Prefix to postfix
 
 ## Description
-This lab was focused on making sure we can use stacks appropriately, without using libraries
-that would create them for us. We were also tasked with creating a program that would take in
-a prefix expression and convert it to postfix. The input and output needed the capability
-to be read in from the arguments to support faster testing. This readme will go over how to
-correctly use the lab. 
+This program converts a prefix expression to a postfix expression
 
 ## Running the program
 
