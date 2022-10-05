@@ -1,4 +1,4 @@
-# DPevahouseLab1
+# Prefix to postfix
 
 ## Description
 This lab was focused on making sure we can use stacks appropriately, without using libraries
@@ -7,25 +7,21 @@ a prefix expression and convert it to postfix. The input and output needed the c
 to be read in from the arguments to support faster testing. This readme will go over how to
 correctly use the lab. 
 
-## Running DPevahouseLab1
+## Running the program
 
 > Note: This program was written in Python 3.9.13
 > Note: This program was written in Pycharm 2022.2.1
 > Results may vary if you are using a different version of Python or Pycharm
-> The source code can be found in the DPevahouseLab1\src folder
+> The source code can be found in the src folder
 
 1. Download and install Python on your computer
 2. Open up a terminal
 3. Navigate to the directory containing the README.md
 4. Run the program as a module: `python -m src -h`. This will print the help message.
 5. Run the program as a module (with real inputs): `python -m src <some_input_file> <some_output_file>`
-   a. IE: `python3 -m src D:\this_is\your_directory_path\here\DPevahouseLab1\many_lines_input.txt D:\John_Hopkins_AI\data_structures\DPevahouseLab1\output.txt`
-6. As an optional method of running the program, there is an executable DPevahouseLab1.exe, that can be run instead of `python -m src`
-    IE: `.\DPevahouseLab1.exe D:\this_is\your_directory_path\here\DPevahouseLab1\many_lines_input.txt D:\John_Hopkins_AI\data_structures\DPevahouseLab1\output.txt`
+   a. IE: `python3 -m such \yourdirectoryhere\inputs\many_lines_input.txt D:\John_Hopkins_AI\data_structures\outputs\output.txt`
 
-
-
-## DPevahouseLab1 usage:
+## usage:
 
 ```commandline
 usage: python -m src in_file out_file
@@ -38,14 +34,14 @@ positional arguments:
 ## Sample Input and Output
 
 There is a list of sample inputs in the directory inputs within the project, resting in the inputs directory:
- IE: D:\this_is\your_directory_path\here\DPevahouseLab1\inputs\input.txt
+ IE: D:\this_is\your_directory_path\here\inputs\input.txt
 
 
 As for outputs, any output file will be created in the directory outputs within the project
 and you will be able to name it whatever you want, the program will create it, resting in the output directory:
  
 
-IE: D:\this_is\your_directory_path\here\DPevahouseLab1\outputs\output.txt
+IE: \yourdirectoryhere\outputs\output.txt
 
 
 When using the function you will need to use the full path to the input and output files
