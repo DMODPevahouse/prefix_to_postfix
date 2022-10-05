@@ -19,7 +19,7 @@ correctly use the lab.
 3. Navigate to the directory containing the README.md
 4. Run the program as a module: `python -m src -h`. This will print the help message.
 5. Run the program as a module (with real inputs): `python -m src <some_input_file> <some_output_file>`
-   a. IE: `python3 -m such \yourdirectoryhere\inputs\many_lines_input.txt D:\John_Hopkins_AI\data_structures\outputs\output.txt`
+   a. IE: `python3 -m such \yourdirectoryhere\inputs\input.txt \yourdirectoryhere\outputs\output.txt`
 
 ## usage:
 
